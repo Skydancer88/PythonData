@@ -1,5 +1,14 @@
 venv
 
+#a3 data files
+2021 Census GCP States and Territories for AUS
+Metadata
+Readme
+fryziggafl.*
+fryziggafl.zip
+lesmis.*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
